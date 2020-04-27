@@ -50,10 +50,10 @@
   > ==> npm 在v5.0.0已将--save为默认行为
 
   ```
-  ## env = prod生产环境 => 依赖添加到"dependencies"
+  ## env = prod生产环境 => 依赖添加到"dependencies"(--save等同于-S)
   npm install|i lodash [--save]
   
-  ## env = dev开发环境 => 依赖添加到"devDependencies"
+  ## env = dev开发环境 => 依赖添加到"devDependencies"(--save-dev等同于-D)
   npm install gulp gulp-css --save-dev
   
   ## 只加载dependencies中的依赖
