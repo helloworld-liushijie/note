@@ -1,7 +1,6 @@
 # Table of contents
 
 * [README](README.md)
-* [Untitled](untitled.md)
 * [SpringBoot](springboot/README.md)
   * [SpringBoot与任务](springboot/springboot-yu-ren-wu.md)
   * [Spring Boot与安全](springboot/springboot-yu-an-quan.md)
